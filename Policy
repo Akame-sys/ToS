@@ -1,0 +1,71 @@
+# Privacy Policy
+
+Effective Date: 10.10.2026
+
+Application / Bot Name:  Sector 22
+
+Developer / Owner: Akame | sirakame
+
+**Contact:** tekk.buisness@gmail.com
+
+### 1. General Overview
+
+Your privacy is very important to us. This Privacy Policy explains what personal data is collected, processed, and stored when you interact with or add **\[Bot Name\]** (hereinafter referred to as "the Bot") to your Discord server.
+
+### 2. Controller / Responsible Entity
+
+The entity responsible for data processing in accordance with applicable data protection laws (such as GDPR) is:
+
+$$
+Akame
+$$
+
+### 3. Data We Collect and Store
+
+The Bot collects and processes only the minimum data necessary for its operation and functionality:
+
+* **Discord User IDs:** Used to uniquely identify users (e.g., for settings, user profiles, command permissions, or bot levels).
+
+* **Discord Guild/Server IDs & Channel IDs:** Used to store server-specific configurations (e.g., custom prefixes, welcome channels, moderation logs).
+
+* **Message Content / Command Inputs:** Processed temporarily to execute commands. *The Bot does not permanently store private chat logs or unprompted messages.*
+
+* **Feature-Specific Data:** Data directly tied to bot interactions (e.g., support ticket contents, XP/economy stats, custom reminders).
+
+> **Note:** The Bot will **never** request, store, or process sensitive personal data such as passwords, banking information, or real-life addresses.
+
+### 4. Purpose and Legal Basis of Processing
+
+Data is collected solely for the following purposes:
+
+* Providing, operating, and maintaining the Bot’s core functionalities.
+
+* Saving user and server preferences.
+
+* Preventing abuse, spam, and technical errors.
+
+The legal basis for processing this data is **Art. 6(1)(f) GDPR** (Legitimate Interest) to provide and maintain the requested service.
+
+### 5. Data Retention and Deletion
+
+* **Persistent Settings:** Stored as long as the Bot remains on the server or as long as the user continues to use the Bot.
+
+* **Server Removal:** If the Bot is removed (kicked) from a server, server-specific data will be automatically purged or deleted within **\[e.g., 30 days\]**.
+
+* **Deletion Requests:** Users can request manual deletion of their stored data at any time (see Section 7).
+
+### 6. Data Sharing and Third Parties
+
+We do **not** sell, rent, or trade your personal data to third parties. Data is only transferred to hosting infrastructure providers (e.g., database hosts) strictly necessary to run the service, or where legally required.
+
+### 7. Your Rights
+
+Under applicable data protection laws, you have the right to:
+
+* **Access:** Request a copy of the data stored about you.
+
+* **Rectification / Erasure:** Request the correction or complete deletion of your data.
+
+* **Object:** Object to the processing of your data at any time.
+
+To exercise any of these rights or request data removal, please contact us via **\[Your Email Address\]** or join our support server at **\[Discord Support Server Link\]**.
